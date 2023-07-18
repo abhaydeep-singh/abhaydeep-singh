@@ -1,8 +1,6 @@
 # 💫About Me :
 👋 Hi, I’m @abhaydeep-singh
-👀 I’m interested in Computer Science
-🌱 I’m currently learning Flutter, C/C++
-📫 How to reach me: abhaydeep7890@gmail.com
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhaydeep-singh-773178239/) 
